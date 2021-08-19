@@ -1,0 +1,121 @@
+year,month,day,holiday_name,holiday_class
+2019,Jan,21,Tu Bishvat,no_vacation
+2019,Mar,20,Fast of Esther,no_vacation
+2019,Mar,20,Purim Eve,no_vacation
+2019,Mar,21,Purim (Tel Aviv),no_vacation
+2019,Mar,22,Shushan Purim (Jerusalem),no_vacation
+2019,Apr,9,Election Day,elections
+2019,Apr,15,Aliyah Day,no_vacation
+2019,Apr,19,Passover Eve,erev_hag
+2019,Apr,20,Passover (Day 1),all_vacation
+2019,Apr,21,Passover (Day 2),hol_hamoed
+2019,Apr,22,Passover (Day 3),hol_hamoed
+2019,Apr,23,Passover (Day 4),hol_hamoed
+2019,Apr,24,Passover (Day 5),hol_hamoed
+2019,Apr,25,Passover (Day 6),erev_hag
+2019,Apr,26,Passover (Day 7),all_vacation
+2019,May,2,Yom HaShoah,no_vacation
+2019,May,8,Yom HaZikaron,no_vacation
+2019,May,9,Yom HaAtzmaut,all_vacation
+2019,May,23,Lag BaOmer,no_vacation
+2019,Jun,2,Jerusalem Day,no_vacation
+2019,Jun,8,Shavuot Eve,erev_hag
+2019,Jun,9,Shavuot,all_vacation
+2019,Aug,10,Tisha B'Av Eve,no_vacation
+2019,Aug,11,Tisha B'Av,no_vacation
+2019,Sep,17,Election Day,elections
+2019,Sep,29,Rosh Hashana Eve,erev_hag
+2019,Sep,30,Rosh Hashana,all_vacation
+2019,Oct,1,Rosh Hashana (Day 2),all_vacation
+2019,Oct,2,Gedaliah Fast,no_vacation
+2019,Oct,8,Yom Kippur Eve,erev_hag
+2019,Oct,9,Yom Kippur,all_vacation
+2019,Oct,13,Sukkot Eve,erev_hag
+2019,Oct,14,Sukkot (Day 1),all_vacation
+2019,Oct,15,Sukkot (Day 2),hol_hamoed
+2019,Oct,16,Sukkot (Day 3),hol_hamoed
+2019,Oct,17,Sukkot (Day 4),hol_hamoed
+2019,Oct,18,Sukkot (Day 5),hol_hamoed
+2019,Oct,19,Sukkot (Day 6),hol_hamoed
+2019,Oct,20,Sukkot (Day 7) / Hoshanah Rabah,erev_hag
+2019,Oct,21,Shemini Atzeret / Simchat Torah,all_vacation
+2019,Nov,5,Aliyah Day School Observance,no_vacation
+2019,Dec,23,Hanukkah (Day 1),mainly_school_vacation
+2019,Dec,24,Hanukkah (Day 2),mainly_school_vacation
+2019,Dec,25,Hanukkah (Day 3),mainly_school_vacation
+2019,Dec,26,Hanukkah (Day 4),mainly_school_vacation
+2019,Dec,27,Hanukkah (Day 5),mainly_school_vacation
+2019,Dec,28,Hanukkah (Day 6) / Rosh Chodesh Tevet,mainly_school_vacation
+2019,Dec,29,Hanukkah (Day 7),mainly_school_vacation
+2019,Dec,30,Hanukkah (Day 8),mainly_school_vacation
+2020,Jan,7,Asarah B'Tevet (Tenth of Tevet),no_vacation
+2020,Feb,10,Tu Bishvat,no_vacation
+2020,Mar,2,Election Day,elections
+2020,Mar,9,Purim Eve,no_vacation
+2020,Mar,10,Purim (Tel Aviv),no_vacation
+2020,Mar,11,Shushan Purim (Jerusalem),no_vacation
+2020,Apr,4,Aliyah Day,no_vacation
+2020,Apr,8,Passover Eve,erev_hag
+2020,Apr,9,Passover (Day 1),all_vacation
+2020,Apr,10,Passover (Day 2),hol_hamoed
+2020,Apr,11,Passover (Day 3),hol_hamoed
+2020,Apr,12,Passover (Day 4),hol_hamoed
+2020,Apr,13,Passover (Day 5),hol_hamoed
+2020,Apr,14,Passover (Day 6),erev_hag
+2020,Apr,15,Passover (Day 7),all_vacation
+2020,Apr,21,Yom HaShoah,no_vacation
+2020,Apr,28,Yom HaZikaron,no_vacation
+2020,Apr,29,Yom HaAtzmaut,all_vacation
+2020,May,12,Lag BaOmer,no_vacation
+2020,May,22,Jerusalem Day,no_vacation
+2020,May,28,Shavuot Eve,erev_hag
+2020,May,29,Shavuot,all_vacation
+2020,Jul,29,Tisha B'Av Eve,no_vacation
+2020,Jul,30,Tisha B'Av,no_vacation
+2020,Sep,18,Rosh Hashana Eve,erev_hag
+2020,Sep,19,Rosh Hashana,all_vacation
+2020,Sep,20,Rosh Hashana (Day 2),all_vacation
+2020,Sep,21,Gedaliah Fast,no_vacation
+2020,Sep,27,Yom Kippur Eve,erev_hag
+2020,Sep,28,Yom Kippur,all_vacation
+2020,Oct,2,Sukkot Eve,erev_hag
+2020,Oct,3,Sukkot (Day 1),all_vacation
+2020,Oct,4,Sukkot (Day 2),hol_hamoed
+2020,Oct,5,Sukkot (Day 3),hol_hamoed
+2020,Oct,6,Sukkot (Day 4),hol_hamoed
+2020,Oct,7,Sukkot (Day 5),hol_hamoed
+2020,Oct,8,Sukkot (Day 6),hol_hamoed
+2020,Oct,9,Sukkot (Day 7) / Hoshanah Rabah,erev_hag
+2020,Oct,10,Shemini Atzeret / Simchat Torah,all_vacation
+2020,Oct,25,Aliyah Day School Observance,no_vacation
+2020,Dec,11,Hanukkah (Day 1),mainly_school_vacation
+2020,Dec,12,Hanukkah (Day 2),mainly_school_vacation
+2020,Dec,13,Hanukkah (Day 3),mainly_school_vacation
+2020,Dec,14,Hanukkah (Day 4),mainly_school_vacation
+2020,Dec,15,Hanukkah (Day 5),mainly_school_vacation
+2020,Dec,16,Hanukkah (Day 6) / Rosh Chodesh Tevet,mainly_school_vacation
+2020,Dec,17,Hanukkah (Day 7),mainly_school_vacation
+2020,Dec,18,Hanukkah (Day 8),mainly_school_vacation
+2020,Dec,25,Asarah B'Tevet (Tenth of Tevet),no_vacation
+2021,Jan,28,Tu Bishvat,no_vacation
+2021,Feb,25,Purim Eve,no_vacation
+2021,Feb,26,Purim (Tel Aviv),no_vacation
+2021,Feb,28,Shushan Purim (Jerusalem),no_vacation
+2021,Mar,23,Election Day,elections
+2021,Mar,27,Passover Eve,erev_hag
+2021,Mar,28,Passover (Day 1),all_vacation
+2021,Mar,29,Passover (Day 2),hol_hamoed
+2021,Mar,30,Passover (Day 3),hol_hamoed
+2021,Mar,31,Passover (Day 4),hol_hamoed
+2021,Apr,1,Passover (Day 5),hol_hamoed
+2021,Apr,2,Passover (Day 6),erev_hag
+2021,Apr,3,Passover (Day 7),all_vacation
+2021,Apr,8,Yom HaShoah,no_vacation
+2021,Apr,14,Yom HaZikaron,no_vacation
+2021,Apr,15,Yom HaAtzmaut,all_vacation
+2021,Apr,30,Lag BaOmer,no_vacation
+2021,May,10,Jerusalem Day,no_vacation
+2021,May,16,Shavuot Eve,erev_hag
+2021,May,17,Shavuot,all_vacation
+2021,Jul,17,Tisha B'Av Eve,no_vacation
+2021,Jul,18,Tisha B'Av,no_vacation
